@@ -1,2 +1,2 @@
-# -devops-by-examples
+# devops-by-examples
 Python
